@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "abca5de7d6969501",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e00668b441d1d97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9365111a1d9d3fd8",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled 1.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a5708bc8cd4e96b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f0736c9c355240f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdf552dd1e4f38fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "faa8267c4bd1773e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a45bd31ac6daccb7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c244b1c9e184478c",
+    "type": "split",
+    "children": [
+      {
+        "id": "59b49c0b16221c61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4b63a23003792d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "aed0b7fe69bae087",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a4c78120f9c499c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "203b3f3d5879fdb2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "829200a17deaa4e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "4634c4575e918b2f",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Untitled.base"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "037646e480cde76e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "635ce87e28178240",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "9365111a1d9d3fd8",
+  "lastOpenFiles": [
+    "Untitled 1.base",
+    "Untitled.base",
+    "CLAUDE.md",
+    "wiki/index.md",
+    "wiki/cybersecurity/devsecops.md",
+    "wiki/cybersecurity/cybersecurity-notes.md",
+    "raw-sources/cybersecurity/cyber-kill-chain.png",
+    "raw-sources/cybersecurity/gdpr-diagram.png",
+    "raw-sources/papers/reflections-trusting-trust.png",
+    "raw-sources/papers/quantum-cryptography.png",
+    "raw-sources/papers/compositional-visual-generation.png",
+    "raw-sources/papers/seal-self-adapting-lm.png",
+    "raw-sources/cybersecurity/sentinel-incidents.png",
+    "raw-sources/cybersecurity/sentinel-definitions.png",
+    "raw-sources/language-learning/language-learning-banner.png",
+    "raw-sources/language-learning/language-learning-photo-1.jpg",
+    "raw-sources/academics/criminology",
+    "raw-sources/academics/docker",
+    "raw-sources/academics/networking",
+    "wiki/reading/papers.md",
+    "raw-sources/papers",
+    "wiki/reading/books/psychology-of-money.md",
+    "wiki/reading/books/the-secret-history.md",
+    "wiki/reading/books/the-creative-act.md",
+    "wiki/reading/books/tender-is-the-flesh.md",
+    "wiki/reading/books/benjamin-franklin-autobiography.md",
+    "wiki/reading/books/propaganda.md",
+    "wiki/reading/books/manufacturing-consent.md",
+    "wiki/reading/books/skunk-works.md",
+    "wiki/reading/books",
+    "wiki/reading/papers/sensory-order.md",
+    "wiki/reading/papers/attention-is-all-you-need.md",
+    "wiki/reading/papers/requirements-engineering-ml.md",
+    "wiki/reading/papers/password-meters.md",
+    "wiki/reading/papers/docker-hub-security.md",
+    "wiki/reading/papers/trust-vlm.md",
+    "wiki/reading/papers/heckler.md",
+    "wiki/reading/papers/pci-dss-survey.md",
+    "wiki/reading/papers/delegating-computation.md",
+    "wiki/reading/papers/post-quantum-cryptography.md",
+    "wiki/reading/papers/quantum-cryptography.md",
+    "wiki/reading/papers/reflections-trusting-trust.md",
+    "wiki/reading/papers",
+    "raw-sources/personal",
+    "wiki/reading/reading.md.tmp.28872.1776007305257",
+    "wiki/reading"
+  ]
+}
