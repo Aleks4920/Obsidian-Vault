@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1e00668b441d1d97",
+        "id": "0aa8680966b7729b",
         "type": "tabs",
         "children": [
           {
-            "id": "9365111a1d9d3fd8",
+            "id": "62a5b74fb33da000",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 1.base",
-                "viewName": "Table"
+                "file": "wiki/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled 1"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -216,11 +217,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9365111a1d9d3fd8",
+  "active": "62a5b74fb33da000",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    "Welcome.md",
+    "raw-sources/papers/compositional-visual-generation.png",
     "Untitled 1.base",
     "Untitled.base",
-    "CLAUDE.md",
     "wiki/index.md",
     "wiki/cybersecurity/devsecops.md",
     "wiki/cybersecurity/cybersecurity-notes.md",
@@ -228,7 +231,6 @@
     "raw-sources/cybersecurity/gdpr-diagram.png",
     "raw-sources/papers/reflections-trusting-trust.png",
     "raw-sources/papers/quantum-cryptography.png",
-    "raw-sources/papers/compositional-visual-generation.png",
     "raw-sources/papers/seal-self-adapting-lm.png",
     "raw-sources/cybersecurity/sentinel-incidents.png",
     "raw-sources/cybersecurity/sentinel-definitions.png",
@@ -262,7 +264,6 @@
     "wiki/reading/papers/reflections-trusting-trust.md",
     "wiki/reading/papers",
     "raw-sources/personal",
-    "wiki/reading/reading.md.tmp.28872.1776007305257",
-    "wiki/reading"
+    "wiki/reading/reading.md.tmp.28872.1776007305257"
   ]
 }
