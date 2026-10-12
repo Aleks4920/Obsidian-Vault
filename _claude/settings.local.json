@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__1aa5a10e-acca-470a-8990-d4b8d4922fcc__notion-update-page",
+      "Bash(powershell.exe -Command \"New-Item -ItemType Directory -Force -Path 'C:\\\\Users\\\\sash4\\\\OneDrive\\\\Documents\\\\Obsidian Vault\\\\raw-sources\\\\cybersecurity'; New-Item -ItemType Directory -Force -Path 'C:\\\\Users\\\\sash4\\\\OneDrive\\\\Documents\\\\Obsidian Vault\\\\raw-sources\\\\academics'; New-Item -ItemType Directory -Force -Path 'C:\\\\Users\\\\sash4\\\\OneDrive\\\\Documents\\\\Obsidian Vault\\\\raw-sources\\\\language-learning'; New-Item -ItemType Directory -Force -Path 'C:\\\\Users\\\\sash4\\\\OneDrive\\\\Documents\\\\Obsidian Vault\\\\raw-sources\\\\personal'; Write-Output 'done'\")",
+      "Bash(powershell.exe -Command ':*)"
+    ]
+  }
+}

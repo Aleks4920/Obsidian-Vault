@@ -76,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,6 +196,27 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9a8197149430d226",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1791808021661-bn55w6m",
+                      "conversationId": null
+                    }
+                  ],
+                  "activeTabId": "tab-1791808021661-bn55w6m"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
         "currentTab": 7
@@ -205,6 +227,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -214,11 +237,19 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
+      "realclaudian:Open Claudian": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "62a5b74fb33da000",
+  "active": "9a8197149430d226",
   "lastOpenFiles": [
+    "_claude/settings.local.json",
+    "_claude",
+    "claude/settings.local.json",
+    "claude",
+    "README.md",
     "CLAUDE.md",
     "Welcome.md",
     "raw-sources/papers/compositional-visual-generation.png",
@@ -259,11 +290,6 @@
     "wiki/reading/papers/heckler.md",
     "wiki/reading/papers/pci-dss-survey.md",
     "wiki/reading/papers/delegating-computation.md",
-    "wiki/reading/papers/post-quantum-cryptography.md",
-    "wiki/reading/papers/quantum-cryptography.md",
-    "wiki/reading/papers/reflections-trusting-trust.md",
-    "wiki/reading/papers",
-    "raw-sources/personal",
-    "wiki/reading/reading.md.tmp.28872.1776007305257"
+    "wiki/reading/papers/post-quantum-cryptography.md"
   ]
 }
